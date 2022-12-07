@@ -1,5 +1,5 @@
 
-# To Run without Docker
+# To Run As A Jar
 
 	> mvn clean install
 	> java -jar target/caa-0.0.1.jar
